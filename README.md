@@ -3,7 +3,6 @@
 An interactive 3D globe built with **React Three Fiber** and **Next.js**, where each point represents a **day** (total 30 points).  
 Users can rotate the globe, hover over points to highlight them, and click a point to navigate to a different page!
 
----
 
 ## ✨ Features
 
@@ -15,13 +14,6 @@ Users can rotate the globe, hover over points to highlight them, and click a poi
 - 🎯 Seamless Routing using `next/navigation`
 - 🔥 Optimized with `useMemo`, `useCallback`, and `Suspense`
 
----
-
-## 📸 Preview
-
-> (Add a GIF or screenshot here if available!)
-
----
 
 ## 🛠️ Technologies Used
 
@@ -31,7 +23,7 @@ Users can rotate the globe, hover over points to highlight them, and click a poi
 - **three.js** — 3D library for WebGL rendering
 - **TypeScript** — Static typing (optional but recommended)
 
----
+
 
 ## ⚙️ Installation
 
