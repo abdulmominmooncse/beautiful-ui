@@ -29,10 +29,10 @@ Users can rotate the globe, hover over points to highlight them, and click a poi
 
 ```bash
 # Clone the repository
-git clone https://github.com/abdulmominmooncse/3d-globe-visualizer.git
+git clone https://github.com/abdulmominmooncse/beautiful-ui.git
 
 # Navigate to the project directory
-cd 3d-globe-visualizer
+cd beautiful-ui
 
 # Install dependencies
 npm install
